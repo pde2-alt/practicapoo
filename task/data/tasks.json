@@ -1,0 +1,8 @@
+[
+  { "texto": "Comprar leche", "categoria": "Hogar", "completed": false },
+  { "texto": "Terminar el informe trimestral", "categoria": "Trabajo", "completed": false },
+  { "texto": "Entrenar 30 minutos", "categoria": "Salud", "completed": true },
+  { "texto": "Leer 20 páginas", "categoria": "Estudio", "completed": false },
+  { "texto": "Llamar al dentista", "categoria": "Hogar", "completed": true },
+  { "texto": "Repasar JavaScript", "categoria": "Estudio", "completed": false }
+]

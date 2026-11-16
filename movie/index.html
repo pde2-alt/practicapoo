@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cartelera de Cine</title>
+<style>
+  .destacada { border: 3px solid gold; }
+</style>
+</head>
+<body>
+<h1>Cartelera de Cine</h1>
+<div id="lista"></div>
+<script src="scripts/Movie.js"></script>
+<script>
+  fetch("data/movies.json")
+    .then(res => res.json())
+    .then(movies => {
+      const lista = document.getElementById("lista");
+      movies.forEach(m => new Movie(m, lista).render());
+    });
+</script>
+</body>
+</html>

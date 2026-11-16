@@ -1,0 +1,9 @@
+[
+  { "titulo": "El Padrino", "director": "Francis Ford Coppola", "anio": 1972, "puntuacion": 9.2 },
+  { "titulo": "Pulp Fiction", "director": "Quentin Tarantino", "anio": 1994, "puntuacion": 8.9 },
+  { "titulo": "Origen", "director": "Christopher Nolan", "anio": 2010, "puntuacion": 8.8 },
+  { "titulo": "Parásitos", "director": "Bong Joon-ho", "anio": 2019, "puntuacion": 8.5 },
+  { "titulo": "La La Land", "director": "Damien Chazelle", "anio": 2016, "puntuacion": 7.8 },
+  { "titulo": "Fast X", "director": "Louis Leterrier", "anio": 2023, "puntuacion": 4.8 },
+  { "titulo": "Cars 2", "director": "John Lasseter", "anio": 2011, "puntuacion": 4.2 }
+]
